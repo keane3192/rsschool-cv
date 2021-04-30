@@ -66,3 +66,14 @@ const { Cluster } = require('puppeteer-cluster');
     await cluster.close();
 })();
 ```
+
+## Exprience: 
+Made a parser using library Pupeteer.js.
+Know how to make Telegram bot.
+Know how to make SQL query.
+
+## Education: 
+Practiced on Javascript and MySQL courses from Udemy. Read a book on PHP.
+
+## English: 
+My knowledge of english language is not bad in my opinion. I learned english in school and by listening to english videos.
